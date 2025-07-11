@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ewinggaspipingllc/static/css/main.6e048a65.css",
+    "main.js": "/ewinggaspipingllc/static/js/main.bed6c5d3.js",
+    "static/media/generator.png": "/ewinggaspipingllc/static/media/generator.9798b906118778aacc17.png",
+    "static/media/generac.png": "/ewinggaspipingllc/static/media/generac.03a55c3c53cb191be09a.png",
+    "static/media/gaslines.png": "/ewinggaspipingllc/static/media/gaslines.6307d708379c92a70a62.png",
+    "static/media/fronttruck.png": "/ewinggaspipingllc/static/media/fronttruck.c245044f2b70ecb0032e.png",
+    "static/media/genera.png": "/ewinggaspipingllc/static/media/genera.a030913c2b008e8605ff.png",
+    "static/media/lightpost.png": "/ewinggaspipingllc/static/media/lightpost.533168450fa48b4d045a.png",
+    "static/media/firefeature.png": "/ewinggaspipingllc/static/media/firefeature.09833354e08614c5309d.png",
+    "static/media/truck.png": "/ewinggaspipingllc/static/media/truck.9aae3cb3b3c18ede0376.png",
+    "static/media/firplace.png": "/ewinggaspipingllc/static/media/firplace.31ffe8683d31e383bc88.png",
+    "static/media/stove.png": "/ewinggaspipingllc/static/media/stove.1e47865a456f2fda9826.png",
+    "static/media/firepit.png": "/ewinggaspipingllc/static/media/firepit.0d9e9f5f3b6eab675f5f.png",
+    "static/media/gaspipe.jpeg": "/ewinggaspipingllc/static/media/gaspipe.64494648e56a4f5d39fa.jpeg",
+    "static/media/generator.jpeg": "/ewinggaspipingllc/static/media/generator.c3dea9180dac9ac03254.jpeg",
+    "static/media/pool.jpeg": "/ewinggaspipingllc/static/media/pool.baf6a0a7a09d142f6298.jpeg",
+    "static/media/firefeatures.jpeg": "/ewinggaspipingllc/static/media/firefeatures.70503b86a154fdbe19a2.jpeg",
+    "static/media/grill.jpeg": "/ewinggaspipingllc/static/media/grill.ba8221b0b7408c13f4a0.jpeg",
+    "static/media/dreamhome.webp": "/ewinggaspipingllc/static/media/dreamhome.759c69a98d305b01e16c.webp",
+    "static/media/footer.svg": "/ewinggaspipingllc/static/media/footer.495bba2de857927ed389.svg",
+    "index.html": "/ewinggaspipingllc/index.html",
+    "static/media/hero-bg.svg": "/ewinggaspipingllc/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.6e048a65.css.map": "/ewinggaspipingllc/static/css/main.6e048a65.css.map",
+    "main.bed6c5d3.js.map": "/ewinggaspipingllc/static/js/main.bed6c5d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e048a65.css",
+    "static/js/main.bed6c5d3.js"
+  ]
+}
